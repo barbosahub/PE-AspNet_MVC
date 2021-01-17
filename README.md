@@ -18,13 +18,13 @@ Plano de estudos: MVC - criando uma aplicação com a arquitetura
   <br><span> Cliente criado </span><br>
   <img src="https://github.com/barbosahub/ImageRepository/blob/master/PE-AspNet_MVC/ListCreate.JPG" width="750" alt="Lista com cliente criado">
 
-  <br><span> Editando cliente </span><br>
+  <br><span> Editando cliente</span><br>
   <img src="https://github.com/barbosahub/ImageRepository/blob/master/PE-AspNet_MVC/Edit.JPG" width="750" alt="Editando cliente">
 
   <br><span> Detalhes do cliente </span><br>
   <img src="https://github.com/barbosahub/ImageRepository/blob/master/PE-AspNet_MVC/Details.JPG" width="750" alt="Detalhes do cliente">
 
-  <br><span> Removendo cliente </span><br>
+  <br><span> Removendo cliente</span><br>
   <img src="https://github.com/barbosahub/ImageRepository/blob/master/PE-AspNet_MVC/Delete.JPG" width="750" alt="Removendo cliente">
 
 
