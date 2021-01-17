@@ -2,7 +2,7 @@
 Plano de estudos: MVC - criando uma aplicação com a arquitetura
 
 ## Descrição do Projeto
-<p align="justify"> Objetivo do plano de estudos: Criar um CRUD consumindo a API e utilizando a arquitetura MVC.
+<p align="justify"> Objetivo do plano de estudos: Criar um CRUD utilizando a arquitetura MVC e MongoDB.
 </p>
 
 ## Realizando CRUD com arquitetura MVC.
